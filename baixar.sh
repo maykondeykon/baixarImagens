@@ -1,9 +1,9 @@
 #!/bin/bash
 ######################################################
-## baixar.sh - Baixa imagens sequenciais de sites 	##
-## Escrito por: Maykon Deykon)						##
-## E-mail: maykondeykon@gmail.com					##
-## OpenSuse GNU/Linux 13.1 							##
+## baixar.sh - Baixa imagens sequenciais de sites   ##
+## Escrito por: Maykon Deykon)                      ##
+## E-mail: maykondeykon@gmail.com                   ##
+## OpenSuse GNU/Linux 13.1                          ##
 ######################################################
 
 # URL da página
